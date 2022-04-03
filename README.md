@@ -7,3 +7,5 @@ Level is a gate that has a mechanism to open it (The weight being placed on the 
 followed by a corridor with traps (the moving wall, platforms and falling log)
 
 ![ezgif-4-78f202dde5](https://user-images.githubusercontent.com/43034026/161445247-1e459aeb-f878-42d6-9162-ff54ee5bfe78.gif)
+
+At the end of the corridor is a button that opens the door, with stairs that would, in a full game, lead to the next level. 
